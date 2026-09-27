@@ -76,6 +76,8 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 1. Correction
 2. Warning
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 3. Temporary Ban
 4. Permanent Ban
 
